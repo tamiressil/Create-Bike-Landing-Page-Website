@@ -6,13 +6,13 @@
 
 - Projeto construído com base em um tutorial do Youtube.
 
- - ## Link do video:
+## Link do video:
 
  [Clique aqui para acessar!!]()
 
 
   #  Veja a página aqui:
- [Veja-o aqui!]()
+ [Veja-o aqui!](https://create-bike-landing-page-website.vercel.app/)
    
    
    
